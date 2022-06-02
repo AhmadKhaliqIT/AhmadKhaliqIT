@@ -26,22 +26,7 @@ Here is a full stack developer with great experience of working on many programi
 Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 Also I'm Interested In Music Production. And in recent years I have been producing of music
-  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
