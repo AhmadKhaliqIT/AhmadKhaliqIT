@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Ahmad Khaliq 🙂  
   
 
-<a href="https://github.com/AhmadKhaliqExpert" target="_blank">
+<a href="https://github.com/AhmadKhaliqIT" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ahmad-khaliq-1990" target="_blank">
@@ -68,11 +68,11 @@ Also I'm Interested In Music Production. And in recent years I have been produci
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadKhaliqExpert&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadKhaliqIT&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhaliqExpert&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhaliqIT&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -82,7 +82,7 @@ Also I'm Interested In Music Production. And in recent years I have been produci
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=AhmadKhaliqExpert&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=AhmadKhaliqIT&&style=flat-square)  
   
 
 <br/>  
