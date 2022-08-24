@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ahmad Khaliq 🙂  
+## Ahmad Khaliq
   
 
 <a href="https://github.com/AhmadKhaliqIT" target="_blank">
